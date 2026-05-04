@@ -1,2 +1,2 @@
 # Jumble
-Repo for Code snippets and idea prodotyps
+Repo for Code Snippets and Idea Prodotyps
